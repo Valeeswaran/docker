@@ -1,11 +1,9 @@
-dockers
+Docker
 ==============================
 
-Docker Test Images/Containers
+Docker Images/Containers
 
-Exposes web server on port `8080` as per `./app.js`
-
-See `Dockerfile` for more details
+This is main folder contains different images or containers to do the docuker testing
 
 
 
